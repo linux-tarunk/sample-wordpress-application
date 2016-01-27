@@ -1,3 +1,4 @@
+<h1>Tarun</h1>
 <?php
 /**
  * Front to the WordPress application. This file doesn't do anything, but loads
